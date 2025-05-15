@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^16.5.0",
+    "imap": "^0.8.19",
+    "mailparser": "^3.7.2",
+    "mongoose": "^8.14.3",
+    "natural": "^8.0.1",
+    "node-imap": "^0.9.6"
+  }
+}
